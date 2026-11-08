@@ -8,7 +8,7 @@ in windows 11  a Power shell command  to auto bock the access of internet
 5) you can see the creat in the outbound rules 
 
 
-The command to be coppied → ▼
+The command to be copied → ▼
 
 $folderPath = "C:\Path\To\Your\Folder"
 $executables = Get-ChildItem -Path $folderPath -Recurse -Filter "*.exe"
